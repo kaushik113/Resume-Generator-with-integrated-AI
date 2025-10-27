@@ -1,3 +1,3 @@
 # Resume-Generator-with-integrated-AI
 Full Resume generation without LaTeX code  
-🔗 Live Demo: https://resume-renerator-or6t.vercel.app/
+🔗 Live Demo: https://calm-sunflower-5e485d.netlify.app/
